@@ -1,0 +1,23 @@
+{
+	"name": "arnhoe/silverstripe-simplenews",
+	"description": "Simple silverstripe news module",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "news", "simple", "rss"],
+	"authors": [
+		{
+			"name": "Arno Poot",
+			"email": "mail@arnopoot.nl"
+		}
+	],
+	"support": {
+		"issues": "http://github.com/ARNHOE/silverstripe-simplenews/issues"
+	},
+	"require": {
+		"silverstripe/framework": "~3.0",
+		"silverstripe/cms": "~3.0",
+		"composer/installers": "*"
+	},
+	"extra": {
+		"installer-name": "simplenews"
+	}
+}

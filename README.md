@@ -17,7 +17,7 @@ SilverStripe Simple News
 # Installation
 SilverStripe Simple News can be easily installed on any already-developed website
 
- * Either extract the module into the `arnhoe-simplenews` folder, or install using composer
+ * Either extract the module into the `simplenews` folder, or install using composer
 
 ```bash
 composer require "arnhoe/silverstripe-simplenews" "dev-master"

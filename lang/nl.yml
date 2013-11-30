@@ -1,0 +1,16 @@
+nl:
+  NewsArticle:
+    FieldContent: Inhoud
+    FieldDate: Datum
+    FieldNewsImage: 'Nieuws afbeelding'
+    FieldTitle: Titel
+    PLURALNAME: 'Nieuws artikelen'
+    SINGULARNAME: 'Nieuws artikel'
+    SaveHelp: 'Bestanden kunnen worden toegevoegd na het voor het eerst opslaan.'
+  NewsHolder:
+    DESCRIPTION: 'Nieuwshouder voor nieuws artikelen'
+    NewsArticlesTitle: 'Nieuws artikelen'
+    PLURALNAME: 'Nieuwshouder'
+    SINGULARNAME: 'Nieuwshouder'
+  SiteTree:
+    FieldRequired: '''{field}'' is verplicht'

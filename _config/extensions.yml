@@ -1,0 +1,6 @@
+---
+name: extensions
+---
+NewsArticle:
+  extensions:
+    - 'NewsURLSegment'

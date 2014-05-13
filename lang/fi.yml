@@ -1,0 +1,18 @@
+fi:
+  NewsArticle:
+    FieldContent: Sisältö
+    FieldDate: Päivämäärä
+    FieldNewsImage: 'Uutisen kuva'
+    FieldTitle: Otsikko
+    PLURALNAME: 'Uutisartikkelit'
+    SINGULARNAME: 'Uutisartikkeli'
+    SaveHelp: 'Tiedostojen liittäminen on mahdollista ensimmäisen tallennuksen jälkeen.'
+  NewsHolder:
+    DESCRIPTION: 'Uutisarkisto pitää sisällään uutisartikkeleita.'
+    NewsArticlesTitle: 'Uutisartikkelit'
+    PLURALNAME: 'Uutisarkistot'
+    SINGULARNAME: 'Uutisarkisto'
+  SiteTree:
+    FieldRequired: '''{field}'' on pakollinen'
+    PLURALNAME: Sivut
+    SINGULARNAME: Sivu
